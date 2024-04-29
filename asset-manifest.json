@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/esp-fitting-room/static/css/main.3d120d00.css",
-    "main.js": "/esp-fitting-room/static/js/main.ffa86669.js",
+    "main.js": "/esp-fitting-room/static/js/main.0f051938.js",
     "static/js/453.88c02124.chunk.js": "/esp-fitting-room/static/js/453.88c02124.chunk.js",
     "index.html": "/esp-fitting-room/index.html",
     "main.3d120d00.css.map": "/esp-fitting-room/static/css/main.3d120d00.css.map",
-    "main.ffa86669.js.map": "/esp-fitting-room/static/js/main.ffa86669.js.map",
+    "main.0f051938.js.map": "/esp-fitting-room/static/js/main.0f051938.js.map",
     "453.88c02124.chunk.js.map": "/esp-fitting-room/static/js/453.88c02124.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d120d00.css",
-    "static/js/main.ffa86669.js"
+    "static/js/main.0f051938.js"
   ]
 }
