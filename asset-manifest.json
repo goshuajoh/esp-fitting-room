@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/esp-fitting-room/static/css/main.3d120d00.css",
-    "main.js": "/esp-fitting-room/static/js/main.d2ec9a53.js",
+    "main.js": "/esp-fitting-room/static/js/main.bda17a9f.js",
     "static/js/453.88c02124.chunk.js": "/esp-fitting-room/static/js/453.88c02124.chunk.js",
     "static/media/Rustacean-orig-noshadow.svg": "/esp-fitting-room/static/media/Rustacean-orig-noshadow.0d481ece291a039e2452c3af39b022bf.svg",
     "static/media/Arduino.svg": "/esp-fitting-room/static/media/Arduino.5e8b95309e564d23f42755dcb2617eff.svg",
@@ -10,11 +10,11 @@
     "index.html": "/esp-fitting-room/index.html",
     "static/media/micropython-seeklogo.svg": "/esp-fitting-room/static/media/micropython-seeklogo.2ebc180500458c6735e041d068da90a1.svg",
     "main.3d120d00.css.map": "/esp-fitting-room/static/css/main.3d120d00.css.map",
-    "main.d2ec9a53.js.map": "/esp-fitting-room/static/js/main.d2ec9a53.js.map",
+    "main.bda17a9f.js.map": "/esp-fitting-room/static/js/main.bda17a9f.js.map",
     "453.88c02124.chunk.js.map": "/esp-fitting-room/static/js/453.88c02124.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d120d00.css",
-    "static/js/main.d2ec9a53.js"
+    "static/js/main.bda17a9f.js"
   ]
 }
